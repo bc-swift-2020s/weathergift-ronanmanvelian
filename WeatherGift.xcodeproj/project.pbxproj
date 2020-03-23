@@ -15,6 +15,7 @@
 		34B0811D241048490046D8B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34B0811B241048490046D8B0 /* LaunchScreen.storyboard */; };
 		34B081252410488E0046D8B0 /* WeatherLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B081242410488E0046D8B0 /* WeatherLocation.swift */; };
 		8012DF32CD34C21EC4D81902 /* libPods-WeatherGift.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8805858611C71DD1AAAB7417 /* libPods-WeatherGift.a */; };
+		E32D0C43242834CA00C24966 /* LocationDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E32D0C42242834CA00C24966 /* LocationDetailViewController.swift */; };
 		E39617342428139D0052592A /* APIKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39617332428139D0052592A /* APIKeys.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		5397310E592D52D4E62A85DB /* Pods-WeatherGift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherGift.debug.xcconfig"; path = "Target Support Files/Pods-WeatherGift/Pods-WeatherGift.debug.xcconfig"; sourceTree = "<group>"; };
 		8805858611C71DD1AAAB7417 /* libPods-WeatherGift.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WeatherGift.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B67DC2A0EEBFCF3EE0079A69 /* Pods-WeatherGift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WeatherGift.release.xcconfig"; path = "Target Support Files/Pods-WeatherGift/Pods-WeatherGift.release.xcconfig"; sourceTree = "<group>"; };
+		E32D0C42242834CA00C24966 /* LocationDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailViewController.swift; sourceTree = "<group>"; };
 		E39617332428139D0052592A /* APIKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKeys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,6 +80,7 @@
 				34B08110241048470046D8B0 /* AppDelegate.swift */,
 				34B08112241048470046D8B0 /* SceneDelegate.swift */,
 				34B081242410488E0046D8B0 /* WeatherLocation.swift */,
+				E32D0C42242834CA00C24966 /* LocationDetailViewController.swift */,
 				34B08114241048470046D8B0 /* LocationListViewController.swift */,
 				34B08116241048470046D8B0 /* Main.storyboard */,
 				34B08119241048490046D8B0 /* Assets.xcassets */,
@@ -216,6 +219,7 @@
 				E39617342428139D0052592A /* APIKeys.swift in Sources */,
 				34B081252410488E0046D8B0 /* WeatherLocation.swift in Sources */,
 				34B08111241048470046D8B0 /* AppDelegate.swift in Sources */,
+				E32D0C43242834CA00C24966 /* LocationDetailViewController.swift in Sources */,
 				34B08113241048470046D8B0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
