@@ -140,7 +140,6 @@ class WeatherDetail: WeatherLocation {
             }
             completed()
         }
-        
         task.resume()
     }
 }
